@@ -6,7 +6,7 @@
         <RouterLink to="#Home">홈</RouterLink>
         <RouterLink to="#사용방법">사용방법</RouterLink>
         <RouterLink to="#체험">체험</RouterLink>
-        <RouterLink to="#????">????</RouterLink>
+        <RouterLink to="#????s>????</RouterLink>
         <RouterLink to="#계정">계정</RouterLink>
         <RouterLink to="#로그인">Log-in</RouterLink>
       </nav>
